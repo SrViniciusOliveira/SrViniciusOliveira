@@ -9,7 +9,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,python,postgres,js,react,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=java,python,postgres,js,react,html,css,git,github,c,c++,c#" />
 </div>
 
 ---

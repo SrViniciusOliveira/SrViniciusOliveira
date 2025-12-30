@@ -16,7 +16,7 @@
 
 ### 🌐 Conecte-se comigo
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/vinicius-oliveira-10a23a244/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">

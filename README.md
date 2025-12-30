@@ -14,6 +14,13 @@
 
 ---
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10)
+
+</div>
+
 ### 🌐 Conecte-se comigo
 
 <div align="left">

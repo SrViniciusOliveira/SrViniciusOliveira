@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div align="right">
 
 ## Olá! Eu sou Vinicius 👋  
 

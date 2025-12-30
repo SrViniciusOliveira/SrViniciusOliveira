@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://web.dio.me/users/viniciusgabriel340">
-  <img src="https://img.shields.io/badge/DIO-0A66C2?style=for-the-badge&logo=dio&logoColor=white">
+  <img src="https://img.shields.io/badge/DIO Bootcamp-0A66C2?style=for-the-badge&logo=dio&logoColor=white">
 </a>
 
 </div>

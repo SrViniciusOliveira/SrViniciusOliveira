@@ -1,21 +1,14 @@
 
 
-<div align="right">
+<div align="left">
 
 ## Olá! Eu sou Vinicius 👋  
 
-💻 Desenvolvedor **Full Stack** em formação  
-🚀 **Backend:** Java, Python, PostgreSQL  
-🎨 **Frontend:** JavaScript, React, HTML, CSS  
-📚 Em constante aprendizado, focado no desenvolvimento de aplicações completas, boas práticas de código e resolução de problemas  
-
 </div>
-
----
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=java,python,postgres,js,react,html,css,git,github" />
 </div>
 

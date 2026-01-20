@@ -24,10 +24,10 @@
 
   <h2>🌐 Conecte-se comigo</h2>
   <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=8"/>
   </a>
   <a href="https://web.dio.me/users/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/DIO-cd00cd?style=for-the-badge&logo=dio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DIO-cd00cd?style=for-the-badge&logo=dio&logoColor=white&border_radius=8"/>
   </a>
 
 </div>

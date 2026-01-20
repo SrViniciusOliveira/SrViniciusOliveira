@@ -15,13 +15,17 @@
 ---
 
 <div align="center">
-<h3>📊 Estatística do GitHub </h3>
-<img height="200"  src="https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10&cache_seconds=1800" style="width:95%;" />
 
-<h3>💻 Principais Linguagens </h3>
-<img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" style="width:95%;"/>
+  <h2>📊 Estatísticas do GitHub</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10&cache_seconds=1800" style="width: 100%; max-width: 900px;" />
+
+  <br><br>
+
+  <h2>💻 Principais Linguagens</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" style="width: 100%; max-width: 900px;" />
 
 </div>
+
 
 ### 🌐 Conecte-se comigo
 

@@ -16,10 +16,10 @@
 
 <div align="center">
 <h3>📊 Estatística do GitHub </h3>
-<img height="200" width="1080" src="https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10&cache_seconds=1800" />
+<img height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10&cache_seconds=1800" />
 
 <h3>💻 Principais Linguagens </h3>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" />
+<img height="200" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" />
 
 </div>
 

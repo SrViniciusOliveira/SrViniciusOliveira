@@ -18,9 +18,10 @@
 <h2 align="center">📊 Estatísticas do GitHub &nbsp;&nbsp; 💻 Principais Linguagens</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10&cache_seconds=1800" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10&cache_seconds=1800" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" width="400" />
 </p>
+
 
 <h2 align="center">🌐 Conecte-se comigo</h2>
 

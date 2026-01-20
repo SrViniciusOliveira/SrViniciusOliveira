@@ -19,15 +19,17 @@
   
 <div align="center">
 
-  <h2>📊 Estatísticas do GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10&cache_seconds=1800" style="width: 70%; max-width: 500px;" />
+<div align="center">
 
-  <br><br>
+  <h2>📊 Estatísticas do GitHub &nbsp;&nbsp; 💻 Principais Linguagens</h2>
 
-  <h2>💻 Principais Linguagens</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" style="width: 70%; max-width: 500px;" />
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10&cache_seconds=1800" style="width: 45%; max-width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" style="width: 45%; max-width: 400px;" />
+  </div>
 
-  <br><br>
+</div>
+
 
   <h2>🌐 Conecte-se comigo</h2>
   <a href="https://www.linkedin.com/in/vinicius-oliveira-10a23a244" target="_blank">

@@ -17,11 +17,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   </div>
   
-<div align="center">
-
-<div align="center">
-
-  <h2>📊 Estatísticas do GitHub &nbsp;&nbsp; 💻 Principais Linguagens</h2>
 
   <div align="center">
 

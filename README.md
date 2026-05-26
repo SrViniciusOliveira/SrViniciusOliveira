@@ -24,6 +24,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" width="400" />
 </p>
 
+![Views](https://myorganizer-analytics-api.onrender.com/badge/myorganizer)
+
 
 <h2 align="center">🌐 Conecte-se comigo</h2>
 

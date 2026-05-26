@@ -16,23 +16,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" />
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrViniciusOliveira&show_icons=true&theme=radical&border_radius=10" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrViniciusOliveira&layout=compact&theme=radical&border_radius=10" width="420"/>
-</p>
-
----
-
 <h2 align="center">👀 Views do projeto</h2>
 
 <p align="center">
-  <img src="https://myorganizer-analytics-api.onrender.com/badge/myorganizer" />
+  <img 
+    src="https://myorganizer-analytics-api.onrender.com/badge/myorganizer"
+    width="160"
+    height="30"
+  />
 </p>
-
 ---
 
 <h2 align="center">🌐 Conecte-se comigo</h2>

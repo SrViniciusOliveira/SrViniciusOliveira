@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" />
 </p>
 
-<h2 align="center">👀 Views do projeto</h2>
+<h2 align="center"> Vizualizações no perfil </h2>
 
 <br>
 

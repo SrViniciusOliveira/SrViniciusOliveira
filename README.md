@@ -19,10 +19,14 @@
 <h2 align="center">👀 Views do projeto</h2>
 
 <br>
-<p align="center">
-<img src="https://myorganizer-analytics-api.onrender.com/badge/myorganizer?v=2026" />
-</p>
 
+<p align="center">
+  <img 
+    src="https://myorganizer-analytics-api.onrender.com/badge/myorganizer?v=2026"
+    width="180"
+    height="35"
+  />
+</p>
 
 <h2 align="center">🌐 Conecte-se comigo</h2>
 

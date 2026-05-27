@@ -20,11 +20,7 @@
 
 <br>
 <p align="center">
-  <img 
-    src="https://myorganizer-analytics-api.onrender.com/badge/myorganizer"
-    width="160"
-    height="30"
-  />
+<img src="https://myorganizer-analytics-api.onrender.com/badge/myorganizer?v=2026" />
 </p>
 
 

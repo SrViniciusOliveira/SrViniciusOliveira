@@ -16,18 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" />
 </p>
 
-<h2 align="center"> Vizualizações no perfil </h2>
-
-<br>
-
-<p align="center">
-  <img 
-    src="https://myorganizer-analytics-api.onrender.com/badge/myorganizer"
-    width="180"
-    height="35"
-  />
-</p>
-
 <h2 align="center">🌐 Conecte-se comigo</h2>
 
 <p align="center">

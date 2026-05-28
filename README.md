@@ -22,7 +22,7 @@
 
 <p align="center">
   <img 
-    src="https://myorganizer-analytics-api.onrender.com/badge/myorganizer?v=2026"
+    src="https://myorganizer-analytics-api.onrender.com/badge/myorganizer"
     width="180"
     height="35"
   />

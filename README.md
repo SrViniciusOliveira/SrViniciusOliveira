@@ -21,7 +21,7 @@
 <h2 align="center">📊 Analytics Badge</h2>
 
 <p align="center">
-  <img src="https://SEU-BACKEND.onrender.com/badge/myorganizer" />
+  <img src="https://myorganizer-analytics-api.onrender.com/badges/myorganizer" />
 </p>
 
 ---
